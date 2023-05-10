@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+.box{
+    border: dotted 2px rgb(25,100,25);
+    width: 500px;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-evenly;
+}
+.box > div{
+    border: solid 2px rgb(132, 36, 174);
+    border-radius: 5px;
+    
+
+}
+.one{
+    flex:0 0 100px;
+}
+.two{
+    flex:0 0 100px;
+}
+.three{
+    flex:0 0 100px;
+}

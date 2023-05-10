@@ -1,0 +1,15 @@
+.a{
+    border-style: solid;
+}
+p{
+    border-style: solid;
+}
+.abc{
+    border-width: 7px;
+}
+p{
+    border-style: solid;
+}
+.abc{
+    border-color: royalblue ;
+}

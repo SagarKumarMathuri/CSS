@@ -1,0 +1,20 @@
+.container{
+    border: solid 1px violet;
+}
+.container >div{
+    height: 50px;
+    width: 200px;
+}
+.abc{
+    float: left;
+    border: solid 3px black;
+
+}
+.second{
+    float: right;
+    border: solid 3px black;
+}
+.third{
+    float: left;
+    border: solid 3px blue;
+}

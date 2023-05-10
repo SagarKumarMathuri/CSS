@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+}
+.box{
+    border: dotted 2px rgb(25,100,25);
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.box > div{
+    border: solid 2px rgb(132, 36, 174);
+    border-radius: 5px;
+    
+
+}
+.one{
+    flex:0 0 200px;
+}
+.two{
+    flex:0 1 200px;
+}
+.three{
+    flex:0 1 200px;
+}
+*{
+    box-sizing: border-box;
+}
+.box{
+    border: dotted 2px rgb(25,100,25);
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+.box > div{
+    border: solid 2px rgb(132, 36, 174);
+    border-radius: 5px;
+    
+
+}
+.one{
+    flex:0 0 200px;
+}
+.two{
+    flex:0 1 200px;
+}
+.three{
+    flex:0 1 200px;
+}

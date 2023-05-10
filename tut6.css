@@ -1,0 +1,31 @@
+.abc{
+    font-weight: normal;
+}
+.abc{
+    font-style: normal;
+}
+.abc{
+    text-decoration: none;
+}
+div{
+    width: 400px;
+}
+.a{
+    text-align: left;
+}
+.b{
+    text-align: right;
+}
+.c{
+    text-align: center;
+}
+.d{
+    text-align: justify;
+}
+.abc{
+    line-height: normal;
+}
+.abc{
+    font-size: 18px;
+    line-height: 23;
+}

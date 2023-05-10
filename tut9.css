@@ -1,0 +1,16 @@
+.a{
+   background-color: blueviolet;
+   border-left:solid 5px blue ;
+}
+.b{
+    background-color: brown;
+    border-right: solid rosybrown 2px;
+}
+.c{
+    background-color: chartreuse;
+    border-top: solid 1px darkblue;
+    border-bottom: 1px forestgreen solid;
+}
+.d{
+    background-color: magenta;
+}
